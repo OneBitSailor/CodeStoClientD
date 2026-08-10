@@ -14,7 +14,7 @@ dependencies {
 
     implementation(compose.desktop.currentOs)
     implementation(libs.kotlinx.coroutinesSwing)
-
+    implementation(libs.compose.icons.core)
     implementation(libs.compose.uiToolingPreview)
     implementation("io.ktor:ktor-client-core-jvm:3.0.1")
     implementation("io.ktor:ktor-client-cio-jvm:3.0.1")
