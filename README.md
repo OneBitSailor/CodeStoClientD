@@ -58,5 +58,3 @@ Kotlin Multiplatform / Compose Desktop
 Ktor Client (CIO engine)
 kotlinx.serialization
 License
-
-Add your license here (e.g. MIT).
